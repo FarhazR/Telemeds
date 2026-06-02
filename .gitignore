@@ -1,0 +1,15 @@
+# React Native
+TelemedsApp/node_modules/
+TelemedsApp/android/app/build/
+
+# Backend
+telemeds-backend/node_modules/
+
+# Environment Variables
+telemeds-backend/.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
