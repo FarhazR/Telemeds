@@ -1,6 +1,4 @@
-process.env.MONGO_URI = 'mongodb://127.0.0.1:27017/telemedssdb';
-process.env.JWT_SECRET = 'telemeds_super_secret_key';
-process.env.PORT = '5000';
+require('dotenv').config();
 
 const express = require('express');
 const cors = require('cors');
