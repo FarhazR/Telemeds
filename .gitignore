@@ -1,9 +1,15 @@
 # React Native
 TelemedsApp/node_modules/
 TelemedsApp/android/app/build/
+TelemedsApp/android/build/
+TelemedsApp/android/.gradle/
+TelemedsApp/local.properties
+TelemedsApp/*.keystore
+TelemedsApp/*.jks
 
 # Backend
 telemeds-backend/node_modules/
+telemeds-backend/uploads/
 
 # Environment Variables
 telemeds-backend/.env
